@@ -100,4 +100,36 @@ footer p {font-size: 1.2em;}
 footer p a:hover {
     text-decoration: underline;
 } 
+body {font-family:Arial, Helvetica, sans-serif;}
+.home-title, .msg h2 {font-family:'Courier New', Courier, monospace;}
+body {
+  font-size: 22px; 
+}
+
+.home-title {
+  font-size: 2em; margin-top: 10px; 
+}
+
+.book, .join {
+  font-size: 18px; 
+}
+
+.msg p {
+  font-size: 0.8em; background-color: #d3d2d2; 
+}
+body {margin: 0; padding: 0; background-color: #e7e7e7;}
+h2 {margin: 0;}
+#logo_link {padding: 5px;}
+nav a {padding: 35px;}
+.book, .join {padding: 15px 30px; margin-top: 50px; border-radius: 5px;}
+.icon {padding-top: 10px; color:#ffffff}
+.msg {padding: 55px; color:#000000}
+.msg p {padding-bottom: 15px; color:#000000}
+footer {padding: 25px 50px; margin-top: 200px;}
+footer .social img {padding-top: 15px; color:#ffffff}
+.rivers-card, .camping-card, .rapids-card {margin: 200px 0;}
+.card.img {border: 10px solid #000000;}
+main section img {box-sizing: border-box;}
+img.mountains {padding: 175px;}
+#hero-img {width: 1600px;}
 
