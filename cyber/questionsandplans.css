@@ -141,7 +141,6 @@ main > div:nth-last-child(1) {
     padding: 26px;
     display: inline-block;
     width: 32px
-    min-width: 250px;
     vertical-align: top;
 }
 
